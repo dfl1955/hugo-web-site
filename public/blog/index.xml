@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on @davelevy.cc</title>
+    <link>http://davelevy.cc/blog/</link>
+    <description>Recent content in Blogs on @davelevy.cc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2019 17:37:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://davelevy.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Hugo</title>
+      <link>http://davelevy.cc/blog/about-hugo/</link>
+      <pubDate>Tue, 24 Dec 2019 17:37:09 +0000</pubDate>
+      
+      <guid>http://davelevy.cc/blog/about-hugo/</guid>
+      <description>Hugo is a general-purpose website framework. More accurately speaking, Hugo is a static page site generator. Here are my notes, copied from my wiki. …</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://davelevy.cc/blog/hello_world/</link>
+      <pubDate>Sat, 23 Dec 2017 21:41:12 +0000</pubDate>
+      
+      <guid>http://davelevy.cc/blog/hello_world/</guid>
+      <description>This is a web site, generated using Hugo and the ananke theme. It is designed to act as a directory for my other web and socal media sites.</description>
+    </item>
+    
+  </channel>
+</rss>
